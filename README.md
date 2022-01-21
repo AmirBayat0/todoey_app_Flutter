@@ -1,4 +1,4 @@
-# a Simple To Do App📕 Using FLUTTER🚀
+# a Simple To Do App📕 Using Flutter🚀
 ## Screenshots
 ![Screenshot (279)](https://user-images.githubusercontent.com/91388754/150595150-de64de3d-0b89-4f3e-af15-a5753f5b592c.png)
 ![Screenshot (281)](https://user-images.githubusercontent.com/91388754/150595168-fb9d40dd-a684-47e0-b35e-5da91b282f4c.png)
